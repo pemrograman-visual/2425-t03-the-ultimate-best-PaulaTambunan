@@ -57,14 +57,14 @@ no
 ```bash
 978-0130895929
 C: A Reference Manual
-Samuel Harbison, Guy Steele Jr.
+Samuel Harbinson, Guy Steele Jr.
 2002
 Pearson
 no
 50.19
 -31.05
 21
-4.7
+4.778
 978-0593238295
 AI 2041: Ten Visions for Our Future
 Kai-Fu Lee, Chen Qiufan
