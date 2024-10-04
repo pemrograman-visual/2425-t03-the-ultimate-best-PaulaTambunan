@@ -1,6 +1,7 @@
 // 12S24025 - Paula Gevriella Tambunan
 // 12S24031 - Amelia Renata LumbanBatu
 
+
 public class T03 {
     private static Scanner input = new Scanner(System.in);
 
